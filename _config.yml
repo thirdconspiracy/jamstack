@@ -56,7 +56,7 @@ defaults:
       comments: "true"
 
 # Serving
-url: "https://thirdconspiracy.dev"
+url: "https://www.thirdconspiracy.dev"
 baseurl: ""
 
 # Includes
