@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Portfolio"
+title:  "Resume"
 permalink: "/portfolio/"
 ---
 
@@ -9,4 +9,4 @@ permalink: "/portfolio/"
     <figcaption>Created by <a href="https://dribbble.com/HannahLizSharp" target="_blank_">Hannah Sharp</a></figcaption>
 </figure>
 
-In addition to writing posts, another thing you may want to do with your Jekyll site is create static pages. By taking advantage of the way Jekyll copies files and directories, this is easy to do. [More Information](https://jekyllrb.com/docs/pages/){:target="_blank"}
+TODO later
