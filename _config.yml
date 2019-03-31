@@ -1,23 +1,23 @@
 # General Settings
 name: Brantley Blanchard
 job_title: Software Engineer
-email: brantley@theblanchards.org
-description: Test jamstack site
-avatar: https://s3.amazonaws.com/uifaces/faces/twitter/dancounsell/128.jpg
+email: 
+description: Test Jamstack site
+avatar: https://lh3.googleusercontent.com/r-vDheTJwW3UI7wPoIoy3XEXCt_W_PBDVyqev2IzM9Tbp37qs2S-7TkRM-dTughD0f9wSWGxxNZBGVgyJL9GmcvFkKvmJf9YAEJeMOgi6sP8zbS31oGkMbdWsMKTo-gm9J9mt5BqRw=s910-no
 favicon: /favicon.ico
 twitter_handler: your_handler
-analytics_code: UA-XXXXXXX-2
-disqus: your_disqus_site
+analytics_code: UA-137399571-1
+disqus: thirdconspiracy.disqus.com
 
 # Social Accounts
 social_networks:
--  { name: facebook, url: 'http://facebook.com' }
--  { name: twitter, url: 'http://twitter.com' }
+-  { name: facebook, url: '' }
+-  { name: twitter, url: '' }
 -  { name: instagram, url: '' }
 -  { name: google-plus, url: '' }
--  { name: linkedin, url: '' }
+-  { name: linkedin, url: 'https://www.linkedin.com/in/brantleyblanchard/' }
 -  { name: skype, url: '' }
--  { name: github, url: '' }
+-  { name: github, url: 'https://github.com/thirdconspiracy' }
 -  { name: codepen, url: '' }
 -  { name: stack-overflow, url: '' }
 -  { name: dribbble, url: '' }
@@ -31,7 +31,7 @@ social_networks:
 -  { name: flickr, url: '' }
 -  { name: spotify, url: '' }
 -  { name: steam, url: '' }
--  { name: wordpress, url: '' }
+-  { name: wordpress, url: 'http://brantleydev.blogspot.com/' }
 -  { name: xing, url: '' }
 -  { name: bitcoin, url: '' }
 -  { name: pocket, url: '' }
@@ -40,7 +40,7 @@ social_networks:
 # Modules Settings
 show_categories: 1
 show_tags: 1
-show_email: 1
+show_email: 0
 show_rss: 1
 show_comments: 1
 show_menu: 1
