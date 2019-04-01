@@ -5,7 +5,7 @@ permalink: "/about/"
 ---
 
 <figure class="aligncenter">
-        <img src="https://www.example.com/photo.jpg" />
+        <img src="/assets/images/theBlanchards.jpg" />
         <figcaption>The Blanchards</figcaption>
 </figure>
 
