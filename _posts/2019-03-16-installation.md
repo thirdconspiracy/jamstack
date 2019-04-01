@@ -1,13 +1,12 @@
 ---
 layout: post
-date: 2016-03-16 08:34
+date: 2019-03-16 08:34
 title: "Installation"
 category: 
 - docs
 - help
 tags:
 - installation
-- steve
 - jekyll
 ---
 
