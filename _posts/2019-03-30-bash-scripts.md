@@ -53,6 +53,17 @@ sup
 awk -F "'*,'*" '{print $3}' filename.csv | uniq | wc -l
 {% endhighlight %}
 
+## Trim Alias
+
+{% highlight bash linenos %}
+alias trim="awk '{\$1=\$1;print}'"
+{% endhighlight %}
+Usage:
+{% highlight bash linenos %}
+grep --no-filename 'xsd:restriction' *.xsd | trim | sort | uniq
+{% endhighlight %}
+
+
 ## SSH With Expect
 
 {% highlight bash linenos %}
