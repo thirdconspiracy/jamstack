@@ -7,11 +7,6 @@ category:
 - batch
 ---
 
-<figure class="aligncenter">
-        <img class="small" src="/assets/images/posts/bash.png" width="375" height="158" />
-        <figcaption>Angular</figcaption>
-</figure>
-
 ## Looping FTP
 Example usage would be to push a file to a set of clients
 

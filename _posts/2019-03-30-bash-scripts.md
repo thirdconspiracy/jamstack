@@ -7,6 +7,10 @@ category:
 - bash
 ---
 
+<figure class="aligncenter">
+        <img class="small" src="/assets/images/posts/bash.png" width="375" height="158" />
+</figure>
+
 ## Redirect stdout/stderr
 
 **redirect stdout/stderr**
