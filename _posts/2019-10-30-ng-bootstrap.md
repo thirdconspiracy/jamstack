@@ -4,7 +4,7 @@ date: 2019-10-30 07:00
 title:  "Angular w/ Bootstrap from WSL"
 mood: happy
 category: 
-- js
+- wsl
 - angular
 ---
 
